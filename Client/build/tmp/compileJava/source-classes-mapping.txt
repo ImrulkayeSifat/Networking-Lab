@@ -1,0 +1,12 @@
+Client/MyFile.java
+ Client.MyFile
+Client/Client.java
+ Client.Client
+ Client.Client$sendNameAndIpButtonListener
+ Client.Client$sendNameAndIpButtonListener$1
+ Client.Client$sendNameAndIpButtonListener$2
+ Client.Client$sendNameAndIpButtonListener$2$1
+ Client.Client$sendNameAndIpButtonListener$2$1$1
+ Client.Client$sendNameAndIpButtonListener$2$1$2
+ Client.Client$sendNameAndIpButtonListener$2$1$3
+ Client.Client$sendNameAndIpButtonListener$2$1$4
